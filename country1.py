@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #Youri Schuur & Roy David
+#Youri kon niks pushen door permissies waar we niet uitkwamen dus hebben we het samen op mijn pc gedaan
 
 import sys
 from PyQt4 import QtCore, QtGui
