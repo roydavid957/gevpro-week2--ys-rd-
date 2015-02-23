@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#Youri kon niets committen omdat zijn computer het niet deed of niet herkende
+#dus we hebben het samen vanaf mijn pc gedaan
 
 import sys
 from PyQt4 import QtCore, QtGui
